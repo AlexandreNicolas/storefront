@@ -1,4 +1,6 @@
 .vscode/
 
 storefront/__pycache__/
+playground/__pycache__/
+storefront/__pycache__/
 __pycache__/
